@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parvez Shah Shaik</h1>
 <h3 align="center">A Data enthusiast, critical thinker, diligent team player and an avid listener having substantial managerial and leadership skills.</h3>
-https://media-exp1.licdn.com/dms/image/C5612AQFy9TrPYcbpGA/article-cover_image-shrink_600_2000/0/1595852886984?e=2147483647&v=beta&t=yhfsOFUi0m8jEyIXb1E5dxyGALN02oVwHG4QtB0nTL8
+
 
 <p align="left"> <a href="https://twitter.com/parvezshahshaik" target="blank"><img src="https://img.shields.io/twitter/follow/parvezshahshaik?logo=twitter&style=for-the-badge" alt="parvezshahshaik" /></a> </p>
 
